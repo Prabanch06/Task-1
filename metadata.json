@@ -1,0 +1,6 @@
+{
+  "name": "SmartCalc AI",
+  "description": "An AI-powered smart calculator with a modern glassmorphism design, capable of standard calculations and solving complex math problems using natural language explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
